@@ -1,18 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Receita de massa de pizza
+Ingredientes</title>
+</head>
 
-Receita de massa de pizza
-Ingredientes
+    <header>
+        <h1><strong>Receita de massa de pizza</strong></h1>
+    <header/>
+    
+    <body>
+<h2><em>ingredientes</em></h2
+   <li>1 colher (chá) de sal</li>
+   <li>1 colher (chá) de açúcar</li>
+   <li>1 colher (sopa) de pinga</li>
+   <li>1 kg de farinha de trigo</li>
+   <li>30 g de fermento biológico</li>
+   <li>3 xícaras de água morna</li>
+   <li>3/4 xícaras de óleo</li>
 
-    1 colher (chá) de sal
-    1 colher (chá) de açúcar
-    1 colher (sopa) de pinga
-    1 kg de farinha de trigo
-    30 g de fermento biológico
-    3 xícaras de água morna
-    3/4 xícaras de óleo
+<h3><em>Modo de preparo:</em></h3>
 
-Modo de preparo:
-
-Misture o fermento, o sal e o açúcar em um pouco de água morna, até que o fermento esteja completamente dissolvido.
+<p>Misture o fermento, o sal e o açúcar em um pouco de água morna, até que o fermento esteja completamente dissolvido.
 
 Em seguida, adicione metade da medida de farinha de trigo, o óleo e mexa até criar uma consistência pastosa.
 
@@ -22,4 +32,6 @@ Assim que a massa desgrudar das mãos, deixe crescer por 30 minutos.
 
 Abra os discos, fure a massa com um garfo e pincele o molho.
 
-Leve ao forno médio (180° C), preaquecido, por 15 minutos.
+Leve ao forno médio (180° C), preaquecido, por 15 minutos.</p>
+    </body>
+</html>
